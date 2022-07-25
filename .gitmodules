@@ -1,0 +1,6 @@
+[submodule "dm-mono"]
+	path = dm-mono
+	url = https://github.com/googlefonts/dm-mono
+[submodule "nerd-fonts"]
+	path = nerd-fonts
+	url = https://github.com/ryanoasis/nerd-fonts
