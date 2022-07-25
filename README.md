@@ -1,6 +1,6 @@
 # Summary
 
-Apply the [Nerd Fonts Patcher](https://github.com/ryanoasis/nerd-fonts) on the [DM Mono](https://github.com/googlefonts/dm-mono) font to obtain a [powerlevel10k](https://github.com/romkatv/powerlevel10k) compliant font.
+Apply the [Nerd Fonts Patcher](https://github.com/ryanoasis/nerd-fonts) on the [DM Mono](https://github.com/googlefonts/dm-mono) font for a [powerlevel10k](https://github.com/romkatv/powerlevel10k) compliant font.
 
 ![preview](./preview.png)
 
@@ -16,7 +16,7 @@ for file in dm-mono/exports/DMMono*.ttf; do
 done
 ```
 
-# Related Project
+# Related Projects
 * dm-mono: https://github.com/googlefonts/dm-mono
 * nerd-fonts: https://github.com/ryanoasis/nerd-fonts
 * powerlevel10k: https://github.com/romkatv/powerlevel10k
