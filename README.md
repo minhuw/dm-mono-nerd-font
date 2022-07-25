@@ -5,7 +5,8 @@ Apply the [Nerd Fonts Patcher](https://github.com/ryanoasis/nerd-fonts) on the [
 ![preview](./preview.png)
 
 # Usage
-* Download patched fonts from subdirectory `dm-mono-nerd-font`.
+* Download patched fonts from the subdirectory [dm-mono-nerd-font](https://github.com/minhuw/dm-mono-nerd-font/tree/main/dm-mono-nerd-font).
+
 * Patch manually from sources (see [nerd font's document](https://github.com/ryanoasis/nerd-fonts#font-patcher) for more details):
 
 ```bash
